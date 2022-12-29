@@ -1,0 +1,1104 @@
+Null display is "<null>".
+  problem  
+-----------
+ Problem 1
+(1 row)
+
+ first_name  |  last_name   
+-------------+--------------
+ AARON       | SELBY
+ ADAM        | GOOCH
+ ADAM        | GRANT
+ ADAM        | HOPPER
+ ADRIAN      | CLARY
+ AGNES       | BISHOP
+ AL          | GARLAND
+ ALAN        | DREYFUSS
+ ALAN        | KAHN
+ ALBERT      | CROUSE
+ ALBERT      | JOHANSSON
+ ALBERT      | NOLTE
+ ALBERTO     | HENNING
+ ALEC        | WAYNE
+ ALEX        | GRESHAM
+ ALEXANDER   | FENNELL
+ ALFRED      | CASILLAS
+ ALFREDO     | MCADAMS
+ ALICE       | STEWART
+ ALICIA      | MILLS
+ ALLAN       | CORNISH
+ ALLEN       | BUTTERFIELD
+ ALLISON     | STANLEY
+ ALMA        | AUSTIN
+ ALVIN       | DELOACH
+ AMANDA      | CARTER
+ AMBER       | DIXON
+ AMY         | LOPEZ
+ ANA         | BRADLEY
+ ANDRE       | RAPP
+ ANDREA      | HENDERSON
+ ANDREW      | PURDY
+ ANDY        | VANHORN
+ ANGEL       | BARCLAY
+ ANGELA      | HERNANDEZ
+ ANGELA      | HUDSON
+ ANGELA      | WITHERSPOON
+ ANGELINA    | ASTAIRE
+ ANITA       | MORALES
+ ANN         | EVANS
+ ANNA        | HILL
+ ANNE        | CRONYN
+ ANNE        | POWELL
+ ANNETTE     | OLSON
+ ANNIE       | RUSSELL
+ ANTHONY     | SCHWAB
+ ANTONIO     | MEEK
+ APRIL       | BURNS
+ ARLENE      | HARVEY
+ ARMANDO     | GRUBER
+ ARNOLD      | HAVENS
+ ARTHUR      | SIMPKINS
+ ASHLEY      | RICHARDSON
+ AUDREY      | BAILEY
+ AUDREY      | OLIVIER
+ AUDREY      | RAY
+ AUSTIN      | CINTRON
+ BARBARA     | JONES
+ BARRY       | LOVELACE
+ BEATRICE    | ARNOLD
+ BECKY       | MILES
+ BELA        | WALKEN
+ BEN         | EASTER
+ BEN         | HARRIS
+ BEN         | WILLIS
+ BENJAMIN    | VARNEY
+ BERNARD     | COLBY
+ BERNICE     | WILLIS
+ BERTHA      | FERGUSON
+ BESSIE      | MORRISON
+ BETH        | FRANKLIN
+ BETTE       | NICHOLSON
+ BETTY       | WHITE
+ BEVERLY     | BROOKS
+ BILL        | GAVIN
+ BILLIE      | HORTON
+ BILLY       | POULIN
+ BOB         | FAWCETT
+ BOB         | PFEIFFER
+ BOBBIE      | CRAIG
+ BOBBY       | BOUDREAU
+ BONNIE      | HUGHES
+ BRAD        | MCCURDY
+ BRADLEY     | MOTLEY
+ BRANDON     | HUEY
+ BRANDY      | GRAVES
+ BRENDA      | WRIGHT
+ BRENT       | HARKINS
+ BRETT       | CORNWELL
+ BRIAN       | WYMAN
+ BRITTANY    | RILEY
+ BRUCE       | SCHWARZ
+ BRYAN       | HARDISON
+ BURT        | DUKAKIS
+ BURT        | POSEY
+ BURT        | TEMPLE
+ BYRON       | BOX
+ CALVIN      | MARTEL
+ CAMERON     | STREEP
+ CAMERON     | WRAY
+ CAMERON     | ZELLWEGER
+ CARL        | ARTIS
+ CARLA       | GUTIERREZ
+ CARLOS      | COUGHLIN
+ CARMEN      | HUNT
+ CARMEN      | OWENS
+ CAROL       | GARCIA
+ CAROLE      | BARNETT
+ CAROLINE    | BOWMAN
+ CAROLYN     | PEREZ
+ CARRIE      | PORTER
+ CARY        | MCCONAUGHEY
+ CASEY       | MENA
+ CASSANDRA   | WALTERS
+ CATE        | HARRIS
+ CATE        | MCQUEEN
+ CATHERINE   | CAMPBELL
+ CATHY       | SPENCER
+ CECIL       | VINES
+ CHAD        | CARBONE
+ CHARLENE    | ALVAREZ
+ CHARLES     | KOWALSKI
+ CHARLIE     | BESS
+ CHARLIZE    | DENCH
+ CHARLOTTE   | HUNTER
+ CHERYL      | MURPHY
+ CHESTER     | BENNER
+ CHRIS       | BRIDGES
+ CHRIS       | BROTHERS
+ CHRIS       | DEPP
+ CHRISTIAN   | AKROYD
+ CHRISTIAN   | GABLE
+ CHRISTIAN   | JUNG
+ CHRISTIAN   | NEESON
+ CHRISTINA   | RAMIREZ
+ CHRISTINE   | ROBERTS
+ CHRISTOPHER | BERRY
+ CHRISTOPHER | GRECO
+ CHRISTOPHER | WEST
+ CHRISTY     | VARGAS
+ CINDY       | FISHER
+ CLARA       | SHAW
+ CLARENCE    | GAMEZ
+ CLAUDE      | HERZOG
+ CLAUDIA     | FULLER
+ CLAYTON     | BARBEE
+ CLIFFORD    | BOWENS
+ CLIFTON     | MALCOLM
+ CLINTON     | BUFORD
+ CLYDE       | TOBIAS
+ CODY        | NOLEN
+ COLLEEN     | BURTON
+ CONNIE      | WALLACE
+ CONSTANCE   | REID
+ COREY       | HAUSER
+ CORY        | MEEHAN
+ COURTNEY    | DAY
+ CRAIG       | MORRELL
+ CRYSTAL     | FORD
+ CUBA        | ALLEN
+ CUBA        | BIRCH
+ CUBA        | OLIVIER
+ CURTIS      | IRBY
+ CYNTHIA     | YOUNG
+ DAISY       | BATES
+ DALE        | RATCLIFF
+ DAN         | HARRIS
+ DAN         | PAINE
+ DAN         | STREEP
+ DAN         | TORN
+ DANA        | HART
+ DANIEL      | CABRAL
+ DANIELLE    | DANIELS
+ DANNY       | ISOM
+ DARLENE     | ROSE
+ DARRELL     | POWER
+ DARREN      | WINDHAM
+ DARRYL      | ASHCRAFT
+ DARYL       | CRAWFORD
+ DARYL       | LARUE
+ DARYL       | WAHLBERG
+ DAVE        | GARDINER
+ DAVID       | ROYAL
+ DAWN        | SULLIVAN
+ DEAN        | SAUER
+ DEANNA      | BYRD
+ DEBBIE      | AKROYD
+ DEBBIE      | REYES
+ DEBORAH     | WALKER
+ DEBRA       | NELSON
+ DELORES     | HANSEN
+ DENISE      | KELLY
+ DENNIS      | GILMAN
+ DEREK       | BLAKELY
+ DERRICK     | BOURQUE
+ DIANA       | ALEXANDER
+ DIANE       | COLLINS
+ DIANNE      | SHELTON
+ DOLORES     | WAGNER
+ DON         | BONE
+ DONALD      | MAHON
+ DONNA       | THOMPSON
+ DORA        | MEDINA
+ DORIS       | REED
+ DOROTHY     | TAYLOR
+ DOUGLAS     | GRAF
+ DUANE       | TUBBS
+ DUSTIN      | GILLETTE
+ DUSTIN      | TAUTOU
+ DWAYNE      | OLVERA
+ DWIGHT      | LOMBARDI
+ EARL        | SHANKS
+ ED          | CHASE
+ ED          | GUINESS
+ ED          | MANSFIELD
+ EDDIE       | TOMLIN
+ EDGAR       | RHOADS
+ EDITH       | MCDONALD
+ EDNA        | WEST
+ EDUARDO     | HIATT
+ EDWARD      | BAUGH
+ EDWIN       | BURK
+ EILEEN      | CARR
+ ELAINE      | STEVENS
+ ELEANOR     | HUNT
+ ELIZABETH   | BROWN
+ ELLA        | OLIVER
+ ELLEN       | PRESLEY
+ ELLEN       | SIMPSON
+ ELMER       | NOE
+ ELSIE       | KELLEY
+ ELVIS       | MARX
+ EMILY       | DEE
+ EMILY       | DIAZ
+ EMMA        | BOYD
+ ENRIQUE     | FORSYTHE
+ ERIC        | ROBERT
+ ERICA       | MATTHEWS
+ ERIK        | GUILLEN
+ ERIKA       | PENA
+ ERIN        | DUNN
+ ERNEST      | STEPP
+ ESTHER      | CRAWFORD
+ ETHEL       | WEBB
+ EUGENE      | CULPEPPER
+ EVA         | RAMOS
+ EVELYN      | MORGAN
+ EVERETT     | BANDA
+ EWAN        | GOODING
+ FAY         | KILMER
+ FAY         | WINSLET
+ FAY         | WOOD
+ FELICIA     | SUTTON
+ FELIX       | GAFFNEY
+ FERNANDO    | CHURCHILL
+ FLORENCE    | WOODS
+ FLOYD       | GANDY
+ FRANCES     | DAY-LEWIS
+ FRANCES     | PARKER
+ FRANCES     | TOMEI
+ FRANCIS     | SIKES
+ FRANCISCO   | SKIDMORE
+ FRANK       | WAGGONER
+ FRANKLIN    | TROUTMAN
+ FRED        | COSTNER
+ FRED        | WHEAT
+ FREDDIE     | DUGGAN
+ FREDERICK   | ISBELL
+ GABRIEL     | HARDER
+ GAIL        | KNIGHT
+ GARY        | COY
+ GARY        | PENN
+ GARY        | PHOENIX
+ GENE        | HOPKINS
+ GENE        | MCKELLEN
+ GENE        | SANBORN
+ GENE        | WILLIS
+ GEOFFREY    | HESTON
+ GEORGE      | LINTON
+ GEORGIA     | JACOBS
+ GERALD      | FULTZ
+ GERALDINE   | PERKINS
+ GERTRUDE    | CASTILLO
+ GILBERT     | SLEDGE
+ GINA        | DEGENERES
+ GINA        | WILLIAMSON
+ GLADYS      | HAMILTON
+ GLEN        | TALBERT
+ GLENDA      | FRAZIER
+ GLENN       | PULLEN
+ GLORIA      | COOK
+ GOLDIE      | BRODY
+ GORDON      | ALLARD
+ GRACE       | ELLIS
+ GRACE       | MOSTEL
+ GREG        | CHAPLIN
+ GREG        | ROBINS
+ GREGORY     | GOODING
+ GREGORY     | MAULDIN
+ GRETA       | KEITEL
+ GRETA       | MALDEN
+ GROUCHO     | DUNST
+ GROUCHO     | SINATRA
+ GROUCHO     | WILLIAMS
+ GUY         | BROWNLEE
+ GWENDOLYN   | MAY
+ HAROLD      | MARTINO
+ HARRISON    | BALE
+ HARRY       | ARCE
+ HARVEY      | GUAJARDO
+ HARVEY      | HOPE
+ HAZEL       | WARREN
+ HEATHER     | MORRIS
+ HECTOR      | POINDEXTER
+ HEIDI       | LARSON
+ HELEN       | HARRIS
+ HELEN       | VOIGHT
+ HENRY       | BERRY
+ HENRY       | BILLINGSLEY
+ HERBERT     | KRUGER
+ HERMAN      | DEVORE
+ HILDA       | HOPKINS
+ HOLLY       | FOX
+ HOWARD      | FORTNER
+ HUGH        | WALDROP
+ HUMPHREY    | GARLAND
+ HUMPHREY    | WILLIS
+ IAN         | STILL
+ IAN         | TANDY
+ IDA         | ANDREWS
+ IRENE       | PRICE
+ IRMA        | PEARSON
+ ISAAC       | OGLESBY
+ IVAN        | CROMWELL
+ JACK        | FOUST
+ JACKIE      | LYNCH
+ JACOB       | LANCE
+ JACQUELINE  | LONG
+ JADA        | RYDER
+ JAIME       | NETTLES
+ JAMES       | GANNON
+ JAMES       | PITT
+ JAMIE       | RICE
+ JAMIE       | WAUGH
+ JANE        | BENNETT
+ JANE        | JACKMAN
+ JANET       | PHILLIPS
+ JANICE      | WARD
+ JARED       | ELY
+ JASON       | MORRISSEY
+ JAVIER      | ELROD
+ JAY         | ROBB
+ JAYNE       | NEESON
+ JAYNE       | NOLTE
+ JAYNE       | SILVERSTONE
+ JEAN        | BELL
+ JEANETTE    | GREENE
+ JEANNE      | LAWSON
+ JEFF        | EAST
+ JEFF        | SILVERSTONE
+ JEFFERY     | PINSON
+ JEFFREY     | SPEAR
+ JENNIE      | TERRY
+ JENNIFER    | DAVIS
+ JENNY       | CASTRO
+ JEREMY      | HURTADO
+ JEROME      | KENYON
+ JERRY       | JORDON
+ JESSE       | SCHILLING
+ JESSICA     | BAILEY
+ JESSICA     | HALL
+ JESSIE      | BANKS
+ JESSIE      | MILAM
+ JESUS       | MCCARTNEY
+ JILL        | HAWKINS
+ JIM         | MOSTEL
+ JIM         | REA
+ JIMMIE      | EGGLESTON
+ JIMMY       | SCHRADER
+ JO          | FOWLER
+ JOAN        | COOPER
+ JOANN       | GARDNER
+ JOANNE      | ROBERTSON
+ JODIE       | DEGENERES
+ JOE         | GILLILAND
+ JOE         | SWANK
+ JOEL        | FRANCISCO
+ JOHN        | FARNSWORTH
+ JOHN        | SUVARI
+ JOHNNIE     | CHISHOLM
+ JOHNNY      | CAGE
+ JOHNNY      | LOLLOBRIGIDA
+ JOHNNY      | TURPIN
+ JON         | CHASE
+ JON         | WILES
+ JONATHAN    | SCARBOROUGH
+ JORDAN      | ARCHULETA
+ JORGE       | OLIVARES
+ JOSE        | ANDREW
+ JOSEPH      | JOY
+ JOSEPHINE   | GOMEZ
+ JOSHUA      | MARK
+ JOY         | GEORGE
+ JOYCE       | EDWARDS
+ JUAN        | FRALEY
+ JUANITA     | MASON
+ JUDE        | CRUISE
+ JUDITH      | COX
+ JUDY        | DEAN
+ JUDY        | GRAY
+ JULIA       | BARRYMORE
+ JULIA       | FAWCETT
+ JULIA       | FLORES
+ JULIA       | MCQUEEN
+ JULIA       | ZELLWEGER
+ JULIAN      | VEST
+ JULIANNE    | DENCH
+ JULIE       | SANCHEZ
+ JULIO       | NOLAND
+ JUNE        | CARROLL
+ JUSTIN      | NGO
+ KAREN       | JACKSON
+ KARL        | BERRY
+ KARL        | SEAL
+ KATHERINE   | RIVERA
+ KATHLEEN    | ADAMS
+ KATHRYN     | COLEMAN
+ KATHY       | JAMES
+ KATIE       | ELLIOTT
+ KAY         | CALDWELL
+ KEITH       | RICO
+ KELLY       | KNOTT
+ KELLY       | TORRES
+ KEN         | PREWITT
+ KENNETH     | GOODEN
+ KENNETH     | HOFFMAN
+ KENNETH     | PALTROW
+ KENNETH     | PESCI
+ KENNETH     | TORN
+ KENT        | ARSENAULT
+ KEVIN       | BLOOM
+ KEVIN       | GARLAND
+ KEVIN       | SCHULER
+ KIM         | ALLEN
+ KIM         | CRUZ
+ KIMBERLY    | LEE
+ KIRK        | JOVOVICH
+ KIRK        | STCLAIR
+ KIRSTEN     | AKROYD
+ KIRSTEN     | PALTROW
+ KRISTEN     | CHAVEZ
+ KRISTIN     | JOHNSTON
+ KRISTINA    | CHAMBERS
+ KURT        | EMMONS
+ KYLE        | SPURLOCK
+ LANCE       | PEMBERTON
+ LARRY       | THRASHER
+ LAURA       | BRODY
+ LAURA       | RODRIGUEZ
+ LAUREN      | HUDSON
+ LAURENCE    | BULLOCK
+ LAURIE      | LAWRENCE
+ LAWRENCE    | LAWTON
+ LEAH        | CURTIS
+ LEE         | HAWKS
+ LENA        | JENSEN
+ LEO         | EBERT
+ LEON        | BOSTIC
+ LEONA       | OBRIEN
+ LEONARD     | SCHOFIELD
+ LEROY       | BUSTAMANTE
+ LESLIE      | GORDON
+ LESLIE      | SEWARD
+ LESTER      | KRAUS
+ LEWIS       | LYMAN
+ LILLIAN     | GRIFFIN
+ LILLIE      | KIM
+ LINDA       | WILLIAMS
+ LISA        | ANDERSON
+ LISA        | MONROE
+ LIZA        | BERGMAN
+ LLOYD       | DOWD
+ LOIS        | BUTLER
+ LONNIE      | TIRADO
+ LORETTA     | CARPENTER
+ LORI        | WOOD
+ LORRAINE    | STEPHENS
+ LOUIS       | LEONE
+ LOUISE      | JENKINS
+ LUCILLE     | DEE
+ LUCILLE     | HOLMES
+ LUCILLE     | TRACY
+ LUCY        | WHEELER
+ LUIS        | YANEZ
+ LYDIA       | BURKE
+ LYNN        | PAYNE
+ MABEL       | HOLLAND
+ MAE         | FLETCHER
+ MAE         | HOFFMAN
+ MANUEL      | MURRELL
+ MARC        | OUTLAW
+ MARCIA      | DEAN
+ MARCUS      | HIDALGO
+ MARGARET    | MOORE
+ MARGIE      | WADE
+ MARIA       | MILLER
+ MARIAN      | MENDOZA
+ MARIE       | TURNER
+ MARILYN     | ROSS
+ MARIO       | CHEATHAM
+ MARION      | OCAMPO
+ MARION      | SNYDER
+ MARJORIE    | TUCKER
+ MARK        | RINEHART
+ MARLENE     | WELCH
+ MARSHA      | DOUGLAS
+ MARSHALL    | THORN
+ MARTHA      | GONZALEZ
+ MARTIN      | BALES
+ MARVIN      | YEE
+ MARY        | KEITEL
+ MARY        | SMITH
+ MARY        | TANDY
+ MATHEW      | BOLIN
+ MATTHEW     | CARREY
+ MATTHEW     | JOHANSSON
+ MATTHEW     | LEIGH
+ MATTHEW     | MAHAN
+ MATTIE      | HOFFMAN
+ MAUREEN     | LITTLE
+ MAURICE     | CRAWLEY
+ MAX         | PITT
+ MAXINE      | SILVA
+ MEG         | HAWKE
+ MEGAN       | PALMER
+ MELANIE     | ARMSTRONG
+ MELINDA     | FERNANDEZ
+ MELISSA     | KING
+ MELVIN      | ELLINGTON
+ MENA        | HOPPER
+ MENA        | TEMPLE
+ MERYL       | ALLEN
+ MERYL       | GIBSON
+ MICHAEL     | BENING
+ MICHAEL     | BOLGER
+ MICHAEL     | SILVERMAN
+ MICHEAL     | FORMAN
+ MICHELE     | GRANT
+ MICHELLE    | CLARK
+ MICHELLE    | MCCONAUGHEY
+ MIGUEL      | BETANCOURT
+ MIKE        | WAY
+ MILDRED     | BAILEY
+ MILLA       | KEITEL
+ MILLA       | PECK
+ MILTON      | HOWLAND
+ MINNIE      | KILMER
+ MINNIE      | ROMERO
+ MINNIE      | ZELLWEGER
+ MIRIAM      | MCKINNEY
+ MISTY       | LAMBERT
+ MITCHELL    | WESTMORELAND
+ MONICA      | HICKS
+ MORGAN      | HOPKINS
+ MORGAN      | MCDORMAND
+ MORGAN      | WILLIAMS
+ MORRIS      | MCCARTER
+ MYRTLE      | FLEMING
+ NANCY       | THOMAS
+ NAOMI       | JENNINGS
+ NATALIE     | HOPKINS
+ NATALIE     | MEYER
+ NATHAN      | RUNYON
+ NATHANIEL   | ADAM
+ NEIL        | RENNER
+ NELLIE      | GARRETT
+ NELSON      | CHRISTENSON
+ NICHOLAS    | BARFIELD
+ NICK        | DEGENERES
+ NICK        | STALLONE
+ NICK        | WAHLBERG
+ NICOLE      | PETERSON
+ NINA        | SOTO
+ NORA        | HERRERA
+ NORMA       | GONZALES
+ NORMAN      | CURRIER
+ OLGA        | JIMENEZ
+ OLYMPIA     | PFEIFFER
+ OPRAH       | KILMER
+ OSCAR       | AQUINO
+ PAMELA      | BAKER
+ PARKER      | GOLDBERG
+ PATRICIA    | JOHNSON
+ PATRICK     | NEWSOM
+ PATSY       | DAVIDSON
+ PAUL        | TROUT
+ PAULA       | BRYANT
+ PAULINE     | HENRY
+ PEARL       | GARZA
+ PEDRO       | CHESTNUT
+ PEGGY       | MYERS
+ PENELOPE    | CRONYN
+ PENELOPE    | GUINESS
+ PENELOPE    | MONROE
+ PENELOPE    | PINKETT
+ PENNY       | NEAL
+ PERRY       | SWAFFORD
+ PETER       | MENARD
+ PHILIP      | CAUSEY
+ PHILLIP     | HOLM
+ PHYLLIS     | FOSTER
+ PRISCILLA   | LOWE
+ RACHEL      | BARNES
+ RAFAEL      | ABNEY
+ RALPH       | CRUZ
+ RALPH       | MADRIGAL
+ RAMON       | CHOATE
+ RAMONA      | HALE
+ RANDALL     | NEUMANN
+ RANDY       | GAITHER
+ RAUL        | FORTIER
+ RAY         | HOULE
+ RAY         | JOHANSSON
+ RAYMOND     | MCWHORTER
+ REBECCA     | SCOTT
+ REESE       | KILMER
+ REESE       | WEST
+ REGINA      | BERRY
+ REGINALD    | KINDER
+ RENE        | MCALISTER
+ RENEE       | BALL
+ RENEE       | LANE
+ RENEE       | TRACY
+ RHONDA      | KENNEDY
+ RICARDO     | MEADOR
+ RICHARD     | MCCRARY
+ RICHARD     | PENN
+ RICK        | MATTOX
+ RICKY       | SHELBY
+ RIP         | CRAWFORD
+ RIP         | WINSLET
+ RITA        | GRAHAM
+ RITA        | REYNOLDS
+ RIVER       | DEAN
+ ROBERT      | BAUGHMAN
+ ROBERTA     | HARPER
+ ROBERTO     | VU
+ ROBIN       | HAYES
+ ROCK        | DUKAKIS
+ RODNEY      | MOELLER
+ ROGER       | QUINTANILLA
+ ROLAND      | SOUTH
+ RON         | DELUCA
+ RONALD      | WEINER
+ RONNIE      | RICKETTS
+ ROSA        | REYNOLDS
+ ROSE        | HOWARD
+ ROSEMARY    | SCHMIDT
+ ROSS        | GREY
+ ROY         | WHITING
+ RUBEN       | GEARY
+ RUBY        | WASHINGTON
+ RUSSELL     | BACALL
+ RUSSELL     | BRINSON
+ RUSSELL     | CLOSE
+ RUSSELL     | TEMPLE
+ RUTH        | MARTINEZ
+ RYAN        | SALISBURY
+ SALLY       | PIERCE
+ SALMA       | NOLTE
+ SALVADOR    | TEEL
+ SAM         | MCDUFFIE
+ SAMANTHA    | DUNCAN
+ SAMUEL      | MARLOW
+ SANDRA      | KILMER
+ SANDRA      | MARTIN
+ SANDRA      | PECK
+ SARA        | PERRY
+ SARAH       | LEWIS
+ SCARLETT    | BENING
+ SCARLETT    | DAMON
+ SCOTT       | SHELLEY
+ SEAN        | DOUGLASS
+ SEAN        | GUINESS
+ SEAN        | WILLIAMS
+ SERGIO      | STANFIELD
+ SETH        | HANNON
+ SHANE       | MILLARD
+ SHANNON     | FREEMAN
+ SHARON      | ROBINSON
+ SHAWN       | HEATON
+ SHEILA      | WELLS
+ SHELLY      | WATTS
+ SHERRI      | RHODES
+ SHERRY      | MARSHALL
+ SHIRLEY     | ALLEN
+ SIDNEY      | BURLESON
+ SIDNEY      | CROWE
+ SISSY       | SOBIESKI
+ SONIA       | GREGORY
+ SPENCER     | DEPP
+ SPENCER     | PECK
+ STACEY      | MONTGOMERY
+ STACY       | CUNNINGHAM
+ STANLEY     | SCROGGINS
+ STELLA      | MORENO
+ STEPHANIE   | MITCHELL
+ STEPHEN     | QUALLS
+ STEVE       | MACKENZIE
+ STEVEN      | CURLEY
+ SUE         | PETERS
+ SUSAN       | DAVIS
+ SUSAN       | WILSON
+ SUZANNE     | NICHOLS
+ SYLVESTER   | DERN
+ SYLVIA      | ORTIZ
+ TAMARA      | NGUYEN
+ TAMMY       | SANDERS
+ TANYA       | GILBERT
+ TARA        | RYAN
+ TED         | BREAUX
+ TERESA      | ROGERS
+ TERRANCE    | ROUSH
+ TERRENCE    | GUNDERSON
+ TERRI       | VASQUEZ
+ TERRY       | CARLSON
+ TERRY       | GRISSOM
+ THELMA      | MURRAY
+ THEODORE    | CULP
+ THERESA     | WATSON
+ THOMAS      | GRIGSBY
+ THORA       | TEMPLE
+ TIFFANY     | JORDAN
+ TIM         | CARY
+ TIM         | HACKMAN
+ TIMOTHY     | BUNN
+ TINA        | SIMMONS
+ TODD        | TAN
+ TOM         | MCKELLEN
+ TOM         | MILNER
+ TOM         | MIRANDA
+ TOMMY       | COLLAZO
+ TONI        | HOLT
+ TONY        | CARRANZA
+ TONYA       | CHAPMAN
+ TRACEY      | BARRETT
+ TRACY       | COLE
+ TRACY       | HERRMANN
+ TRAVIS      | ESTEP
+ TROY        | QUIGLEY
+ TYLER       | WREN
+ TYRONE      | ASHER
+ UMA         | WOOD
+ VAL         | BOLGER
+ VALERIE     | BLACK
+ VANESSA     | SIMS
+ VELMA       | LUCAS
+ VERA        | MCCOY
+ VERNON      | CHAPA
+ VERONICA    | STONE
+ VICKI       | FIELDS
+ VICKIE      | BREWER
+ VICTOR      | BARKLEY
+ VICTORIA    | GIBSON
+ VINCENT     | RALSTON
+ VIOLA       | HANSON
+ VIOLET      | RODRIQUEZ
+ VIRGIL      | WOFFORD
+ VIRGINIA    | GREEN
+ VIVIAN      | RUIZ
+ VIVIEN      | BASINGER
+ VIVIEN      | BERGEN
+ WADE        | DELVALLE
+ WALLACE     | SLONE
+ WALTER      | PERRYMAN
+ WALTER      | TORN
+ WANDA       | PATTERSON
+ WARREN      | JACKMAN
+ WARREN      | NOLTE
+ WARREN      | SHERROD
+ WAYNE       | TRUONG
+ WENDY       | HARRISON
+ WESLEY      | BULL
+ WHOOPI      | HURT
+ WILL        | WILSON
+ WILLARD     | LUMPKIN
+ WILLIAM     | HACKMAN
+ WILLIAM     | SATTERFIELD
+ WILLIE      | HOWELL
+ WILLIE      | MARKHAM
+ WILMA       | RICHARDS
+ WOODY       | HOFFMAN
+ WOODY       | JOLIE
+ YOLANDA     | WEAVER
+ YVONNE      | WATKINS
+ ZACHARY     | HITE
+ ZERO        | CAGE
+(797 rows)
+
+  problem  
+-----------
+ Problem 2
+(1 row)
+
+    date    
+------------
+ 2005-05-24
+ 2005-05-25
+ 2005-05-26
+ 2005-05-27
+ 2005-05-28
+ 2005-05-29
+ 2005-05-30
+ 2005-05-31
+ 2005-06-14
+ 2005-06-15
+ 2005-06-16
+ 2005-06-17
+ 2005-06-18
+ 2005-06-19
+ 2005-06-20
+ 2005-06-21
+ 2005-07-05
+ 2005-07-06
+ 2005-07-07
+ 2005-07-08
+ 2005-07-09
+ 2005-07-10
+ 2005-07-11
+ 2005-07-12
+ 2005-07-26
+ 2005-07-27
+ 2005-07-28
+ 2005-07-29
+ 2005-07-30
+ 2005-07-31
+ 2005-08-01
+ 2005-08-02
+ 2005-08-16
+ 2005-08-17
+ 2005-08-18
+ 2005-08-19
+ 2005-08-20
+ 2005-08-21
+ 2005-08-22
+ 2005-08-23
+ 2006-02-14
+ 2007-01-24
+ 2007-01-25
+ 2007-01-26
+ 2007-01-27
+ 2007-01-28
+ 2007-01-29
+ 2007-01-30
+ 2007-01-31
+ 2007-02-14
+ 2007-02-15
+ 2007-02-16
+ 2007-02-17
+ 2007-02-18
+ 2007-02-19
+ 2007-02-20
+ 2007-02-21
+ 2007-03-01
+ 2007-03-02
+ 2007-03-16
+ 2007-03-17
+ 2007-03-18
+ 2007-03-19
+ 2007-03-20
+ 2007-03-21
+ 2007-03-22
+ 2007-03-23
+ 2007-04-05
+ 2007-04-06
+ 2007-04-07
+ 2007-04-08
+ 2007-04-09
+ 2007-04-10
+ 2007-04-11
+ 2007-04-12
+ 2007-04-26
+ 2007-04-27
+ 2007-04-28
+ 2007-04-29
+ 2007-04-30
+ 2007-05-14
+(81 rows)
+
+  problem  
+-----------
+ Problem 3
+(1 row)
+
+ first_name | last_name 
+------------+-----------
+ JENNIFER   | DAVIS
+(1 row)
+
+  problem  
+-----------
+ Problem 4
+(1 row)
+
+    title    
+-------------
+ STEEL SANTA
+(1 row)
+
+  problem  
+-----------
+ Problem 5
+(1 row)
+
+ film_id 
+---------
+      14
+      33
+      36
+      38
+      41
+      87
+     108
+     128
+     144
+     148
+     171
+     192
+     195
+     198
+     217
+     221
+     318
+     325
+     332
+     359
+     386
+     404
+     419
+     495
+     497
+     607
+     642
+     669
+     671
+     701
+     712
+     713
+     742
+     801
+     802
+     860
+     874
+     909
+     943
+     950
+     954
+     955
+(42 rows)
+
+  problem  
+-----------
+ Problem 6
+(1 row)
+
+ missing_id 
+------------
+        321
+       2247
+       6579
+       9426
+      15592
+(5 rows)
+
+  problem  
+-----------
+ Problem 7
+(1 row)
+
+ first_name | last_name 
+------------+-----------
+(0 rows)
+
+  problem  
+-----------
+ Problem 8
+(1 row)
+
+    date    | customer_id | interaction_type 
+------------+-------------+------------------
+ 2005-05-24 |         459 | rental
+ 2005-05-25 |         459 | rental
+ 2005-05-26 |         459 | rental
+ 2005-05-27 |         459 | rental
+ 2005-05-28 |         459 | rental
+ 2005-05-29 |         459 | rental
+ 2005-05-30 |         459 | rental
+ 2005-05-31 |         459 | rental
+ 2005-06-14 |         459 | rental
+ 2005-06-15 |         459 | rental
+ 2005-06-16 |         459 | rental
+ 2005-06-17 |         459 | rental
+ 2005-06-18 |         459 | rental
+ 2005-06-19 |         459 | rental
+ 2005-06-20 |         459 | rental
+ 2005-06-21 |         459 | rental
+ 2005-07-05 |         459 | rental
+ 2005-07-06 |         459 | rental
+ 2005-07-07 |         459 | rental
+ 2005-07-08 |         459 | rental
+ 2005-07-09 |         459 | rental
+ 2005-07-10 |         459 | rental
+ 2005-07-11 |         459 | rental
+ 2005-07-12 |         459 | rental
+ 2005-07-26 |         459 | rental
+ 2005-07-27 |         459 | rental
+ 2005-07-28 |         459 | rental
+ 2005-07-29 |         459 | rental
+ 2005-07-30 |         459 | rental
+ 2005-07-31 |         459 | rental
+ 2005-08-01 |         459 | rental
+ 2005-08-02 |         459 | rental
+ 2005-08-16 |         459 | rental
+ 2005-08-17 |         459 | rental
+ 2005-08-18 |         459 | rental
+ 2005-08-19 |         459 | rental
+ 2005-08-20 |         459 | rental
+ 2005-08-21 |         459 | rental
+ 2005-08-22 |         459 | rental
+ 2005-08-23 |         459 | rental
+ 2006-02-14 |         459 | rental
+ 2007-01-24 |         269 | payment
+ 2007-01-25 |         269 | payment
+ 2007-01-26 |         269 | payment
+ 2007-01-27 |         269 | payment
+ 2007-01-28 |         269 | payment
+ 2007-01-29 |         269 | payment
+ 2007-01-30 |         269 | payment
+ 2007-01-31 |         269 | payment
+ 2007-02-14 |         269 | payment
+ 2007-02-15 |         269 | payment
+ 2007-02-16 |         269 | payment
+ 2007-02-17 |         269 | payment
+ 2007-02-18 |         269 | payment
+ 2007-02-19 |         269 | payment
+ 2007-02-20 |         269 | payment
+ 2007-02-21 |         269 | payment
+ 2007-03-01 |         269 | payment
+ 2007-03-02 |         269 | payment
+ 2007-03-16 |         269 | payment
+ 2007-03-17 |         269 | payment
+ 2007-03-18 |         269 | payment
+ 2007-03-19 |         269 | payment
+ 2007-03-20 |         269 | payment
+ 2007-03-21 |         269 | payment
+ 2007-03-22 |         269 | payment
+ 2007-03-23 |         269 | payment
+ 2007-04-05 |         269 | payment
+ 2007-04-06 |         269 | payment
+ 2007-04-07 |         269 | payment
+ 2007-04-08 |         269 | payment
+ 2007-04-09 |         269 | payment
+ 2007-04-10 |         269 | payment
+ 2007-04-11 |         269 | payment
+ 2007-04-12 |         269 | payment
+ 2007-04-26 |         269 | payment
+ 2007-04-27 |         269 | payment
+ 2007-04-28 |         269 | payment
+ 2007-04-29 |         269 | payment
+ 2007-04-30 |         269 | payment
+ 2007-05-14 |         269 | payment
+(81 rows)
+
+  problem  
+-----------
+ Problem 9
+(1 row)
+
+ country 
+---------
+ Canada
+(1 row)
+
+  problem   
+------------
+ Problem 10
+(1 row)
+
+ n 
+---
+ 1
+ 2
+ 5
+ 6
+(4 rows)
+

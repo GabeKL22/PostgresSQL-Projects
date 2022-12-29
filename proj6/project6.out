@@ -1,0 +1,1286 @@
+Null display is "<null>".
+ first_name |  last_name  
+------------+-------------
+ TOMMY      | COLLAZO
+ MANUEL     | MURRELL
+ ANDREW     | PURDY
+ DELORES    | HANSEN
+ NELSON     | CHRISTENSON
+ CASSANDRA  | WALTERS
+ MINNIE     | ROMERO
+ CHARLOTTE  | HUNTER
+(8 rows)
+
+ film_id |      title       
+---------+------------------
+     257 | DRUMLINE CYCLONE
+     323 | FLIGHT LIES
+     803 | SLACKER LIAISONS
+(3 rows)
+
+ film_id |      title       
+---------+------------------
+     803 | SLACKER LIAISONS
+     323 | FLIGHT LIES
+     257 | DRUMLINE CYCLONE
+(3 rows)
+
+ customer_id | first_name | last_name 
+-------------+------------+-----------
+         257 | MARSHA     | DOUGLAS
+         142 | APRIL      | BURNS
+         564 | BOB        | PFEIFFER
+          89 | JULIA      | FLORES
+(4 rows)
+
+      country       
+--------------------
+ Brazil
+ China
+ India
+ Japan
+ Mexico
+ Philippines
+ Russian Federation
+ United States
+(8 rows)
+
+ customer_id | first_name  |  last_name   | favorite_store 
+-------------+-------------+--------------+----------------
+           1 | MARY        | SMITH        |              1
+           2 | PATRICIA    | JOHNSON      |              1
+           3 | LINDA       | WILLIAMS     |              1
+           4 | BARBARA     | JONES        |              2
+           5 | ELIZABETH   | BROWN        |              2
+           6 | JENNIFER    | DAVIS        |              1
+           7 | MARIA       | MILLER       |              1
+           8 | SUSAN       | WILSON       |              2
+           9 | MARGARET    | MOORE        |              2
+          10 | DOROTHY     | TAYLOR       |              1
+          11 | LISA        | ANDERSON     |              2
+          12 | NANCY       | THOMAS       |              2
+          13 | KAREN       | JACKSON      |              2
+          14 | BETTY       | WHITE        |              1
+          15 | HELEN       | HARRIS       |              2
+          16 | SANDRA      | MARTIN       |              1
+          17 | DONNA       | THOMPSON     |              2
+          18 | CAROL       | GARCIA       |              1
+          19 | RUTH        | MARTINEZ     |              2
+          20 | SHARON      | ROBINSON     |              1
+          21 | MICHELLE    | CLARK        |              1
+          22 | LAURA       | RODRIGUEZ    |              2
+          23 | SARAH       | LEWIS        |              1
+          24 | KIMBERLY    | LEE          |              2
+          25 | DEBORAH     | WALKER       |              2
+          26 | JESSICA     | HALL         |              2
+          27 | SHIRLEY     | ALLEN        |              2
+          28 | CYNTHIA     | YOUNG        |              1
+          29 | ANGELA      | HERNANDEZ    |              2
+          30 | MELISSA     | KING         |              1
+          31 | BRENDA      | WRIGHT       |              1
+          32 | AMY         | LOPEZ        |              2
+          33 | ANNA        | HILL         |              1
+          34 | REBECCA     | SCOTT        |              2
+          35 | VIRGINIA    | GREEN        |              2
+          36 | KATHLEEN    | ADAMS        |              2
+          37 | PAMELA      | BAKER        |              2
+          38 | MARTHA      | GONZALEZ     |              2
+          39 | DEBRA       | NELSON       |              2
+          40 | AMANDA      | CARTER       |              1
+          41 | STEPHANIE   | MITCHELL     |              2
+          42 | CAROLYN     | PEREZ        |              1
+          43 | CHRISTINE   | ROBERTS      |              1
+          44 | MARIE       | TURNER       |              2
+          45 | JANET       | PHILLIPS     |              1
+          46 | CATHERINE   | CAMPBELL     |              2
+          47 | FRANCES     | PARKER       |              1
+          48 | ANN         | EVANS        |              1
+          49 | JOYCE       | EDWARDS      |              1
+          50 | DIANE       | COLLINS      |              2
+          51 | ALICE       | STEWART      |              1
+          52 | JULIE       | SANCHEZ      |              2
+          53 | HEATHER     | MORRIS       |              2
+          54 | TERESA      | ROGERS       |              2
+          55 | DORIS       | REED         |              1
+          56 | GLORIA      | COOK         |              2
+          57 | EVELYN      | MORGAN       |              2
+          58 | JEAN        | BELL         |              1
+          59 | CHERYL      | MURPHY       |              2
+          60 | MILDRED     | BAILEY       |              1
+          61 | KATHERINE   | RIVERA       |              2
+          62 | JOAN        | COOPER       |              1
+          63 | ASHLEY      | RICHARDSON   |              2
+          64 | JUDITH      | COX          |              1
+          65 | ROSE        | HOWARD       |              2
+          66 | JANICE      | WARD         |              2
+          67 | KELLY       | TORRES       |              1
+          68 | NICOLE      | PETERSON     |              2
+          69 | JUDY        | GRAY         |              2
+          70 | CHRISTINA   | RAMIREZ      |              1
+          71 | KATHY       | JAMES        |              2
+          72 | THERESA     | WATSON       |              2
+          73 | BEVERLY     | BROOKS       |              1
+          74 | DENISE      | KELLY        |              1
+          75 | TAMMY       | SANDERS      |              2
+          76 | IRENE       | PRICE        |              2
+          77 | JANE        | BENNETT      |              1
+          78 | LORI        | WOOD         |              2
+          79 | RACHEL      | BARNES       |              1
+          80 | MARILYN     | ROSS         |              2
+          81 | ANDREA      | HENDERSON    |              1
+          82 | KATHRYN     | COLEMAN      |              2
+          83 | LOUISE      | JENKINS      |              2
+          84 | SARA        | PERRY        |              2
+          85 | ANNE        | POWELL       |              1
+          86 | JACQUELINE  | LONG         |              1
+          87 | WANDA       | PATTERSON    |              2
+          88 | BONNIE      | HUGHES       |              2
+          89 | JULIA       | FLORES       |              2
+          90 | RUBY        | WASHINGTON   |              1
+          91 | LOIS        | BUTLER       |              2
+          92 | TINA        | SIMMONS      |              2
+          93 | PHYLLIS     | FOSTER       |              2
+          94 | NORMA       | GONZALES     |              1
+          95 | PAULA       | BRYANT       |              1
+          96 | DIANA       | ALEXANDER    |              2
+          97 | ANNIE       | RUSSELL      |              1
+          98 | LILLIAN     | GRIFFIN      |              2
+          99 | EMILY       | DIAZ         |              2
+         100 | ROBIN       | HAYES        |              2
+         101 | PEGGY       | MYERS        |              1
+         102 | CRYSTAL     | FORD         |              2
+         103 | GLADYS      | HAMILTON     |              1
+         104 | RITA        | GRAHAM       |              2
+         105 | DAWN        | SULLIVAN     |              2
+         106 | CONNIE      | WALLACE      |              2
+         107 | FLORENCE    | WOODS        |              2
+         108 | TRACY       | COLE         |              2
+         109 | EDNA        | WEST         |              2
+         110 | TIFFANY     | JORDAN       |              1
+         111 | CARMEN      | OWENS        |              1
+         112 | ROSA        | REYNOLDS     |              1
+         113 | CINDY       | FISHER       |              1
+         114 | GRACE       | ELLIS        |              1
+         115 | WENDY       | HARRISON     |              1
+         116 | VICTORIA    | GIBSON       |              2
+         117 | EDITH       | MCDONALD     |              1
+         118 | KIM         | CRUZ         |              2
+         119 | SHERRY      | MARSHALL     |              1
+         120 | SYLVIA      | ORTIZ        |              1
+         121 | JOSEPHINE   | GOMEZ        |              1
+         122 | THELMA      | MURRAY       |              1
+         123 | SHANNON     | FREEMAN      |              1
+         124 | SHEILA      | WELLS        |              2
+         125 | ETHEL       | WEBB         |              1
+         126 | ELLEN       | SIMPSON      |              2
+         127 | ELAINE      | STEVENS      |              1
+         128 | MARJORIE    | TUCKER       |              2
+         129 | CARRIE      | PORTER       |              1
+         130 | CHARLOTTE   | HUNTER       |              2
+         131 | MONICA      | HICKS        |              2
+         132 | ESTHER      | CRAWFORD     |              1
+         133 | PAULINE     | HENRY        |              2
+         134 | EMMA        | BOYD         |              2
+         135 | JUANITA     | MASON        |              2
+         136 | ANITA       | MORALES      |              1
+         137 | RHONDA      | KENNEDY      |              1
+         138 | HAZEL       | WARREN       |              1
+         139 | AMBER       | DIXON        |              2
+         140 | EVA         | RAMOS        |              2
+         141 | DEBBIE      | REYES        |              1
+         142 | APRIL       | BURNS        |              1
+         143 | LESLIE      | GORDON       |              2
+         144 | CLARA       | SHAW         |              2
+         145 | LUCILLE     | HOLMES       |              2
+         146 | JAMIE       | RICE         |              1
+         147 | JOANNE      | ROBERTSON    |              2
+         148 | ELEANOR     | HUNT         |              2
+         149 | VALERIE     | BLACK        |              2
+         150 | DANIELLE    | DANIELS      |              2
+         151 | MEGAN       | PALMER       |              1
+         152 | ALICIA      | MILLS        |              1
+         153 | SUZANNE     | NICHOLS      |              2
+         154 | MICHELE     | GRANT        |              2
+         155 | GAIL        | KNIGHT       |              2
+         156 | BERTHA      | FERGUSON     |              2
+         157 | DARLENE     | ROSE         |              2
+         158 | VERONICA    | STONE        |              1
+         159 | JILL        | HAWKINS      |              1
+         160 | ERIN        | DUNN         |              2
+         161 | GERALDINE   | PERKINS      |              2
+         162 | LAUREN      | HUDSON       |              2
+         163 | CATHY       | SPENCER      |              1
+         164 | JOANN       | GARDNER      |              2
+         165 | LORRAINE    | STEPHENS     |              1
+         166 | LYNN        | PAYNE        |              2
+         167 | SALLY       | PIERCE       |              2
+         168 | REGINA      | BERRY        |              2
+         169 | ERICA       | MATTHEWS     |              2
+         170 | BEATRICE    | ARNOLD       |              2
+         171 | DOLORES     | WAGNER       |              2
+         172 | BERNICE     | WILLIS       |              1
+         173 | AUDREY      | RAY          |              2
+         174 | YVONNE      | WATKINS      |              2
+         175 | ANNETTE     | OLSON        |              1
+         176 | JUNE        | CARROLL      |              2
+         177 | SAMANTHA    | DUNCAN       |              2
+         178 | MARION      | SNYDER       |              1
+         179 | DANA        | HART         |              1
+         180 | STACY       | CUNNINGHAM   |              2
+         181 | ANA         | BRADLEY      |              2
+         182 | RENEE       | LANE         |              2
+         183 | IDA         | ANDREWS      |              1
+         184 | VIVIAN      | RUIZ         |              1
+         185 | ROBERTA     | HARPER       |              2
+         186 | HOLLY       | FOX          |              2
+         187 | BRITTANY    | RILEY        |              2
+         188 | MELANIE     | ARMSTRONG    |              1
+         189 | LORETTA     | CARPENTER    |              2
+         190 | YOLANDA     | WEAVER       |              2
+         191 | JEANETTE    | GREENE       |              2
+         192 | LAURIE      | LAWRENCE     |              2
+         193 | KATIE       | ELLIOTT      |              1
+         194 | KRISTEN     | CHAVEZ       |              2
+         195 | VANESSA     | SIMS         |              1
+         196 | ALMA        | AUSTIN       |              2
+         197 | SUE         | PETERS       |              1
+         198 | ELSIE       | KELLEY       |              2
+         199 | BETH        | FRANKLIN     |              2
+         200 | JEANNE      | LAWSON       |              1
+         201 | VICKI       | FIELDS       |              2
+         202 | CARLA       | GUTIERREZ    |              2
+         203 | TARA        | RYAN         |              2
+         204 | ROSEMARY    | SCHMIDT      |              1
+         205 | EILEEN      | CARR         |              1
+         206 | TERRI       | VASQUEZ      |              1
+         207 | GERTRUDE    | CASTILLO     |              1
+         208 | LUCY        | WHEELER      |              1
+         209 | TONYA       | CHAPMAN      |              2
+         210 | ELLA        | OLIVER       |              1
+         211 | STACEY      | MONTGOMERY   |              1
+         212 | WILMA       | RICHARDS     |              1
+         213 | GINA        | WILLIAMSON   |              2
+         214 | KRISTIN     | JOHNSTON     |              2
+         215 | JESSIE      | BANKS        |              1
+         216 | NATALIE     | MEYER        |              1
+         217 | AGNES       | BISHOP       |              2
+         218 | VERA        | MCCOY        |              1
+         219 | WILLIE      | HOWELL       |              1
+         220 | CHARLENE    | ALVAREZ      |              1
+         221 | BESSIE      | MORRISON     |              2
+         222 | DELORES     | HANSEN       |              2
+         223 | MELINDA     | FERNANDEZ    |              1
+         224 | PEARL       | GARZA        |              1
+         225 | ARLENE      | HARVEY       |              2
+         226 | MAUREEN     | LITTLE       |              1
+         227 | COLLEEN     | BURTON       |              2
+         228 | ALLISON     | STANLEY      |              1
+         229 | TAMARA      | NGUYEN       |              1
+         230 | JOY         | GEORGE       |              2
+         231 | GEORGIA     | JACOBS       |              1
+         232 | CONSTANCE   | REID         |              2
+         233 | LILLIE      | KIM          |              2
+         234 | CLAUDIA     | FULLER       |              2
+         235 | JACKIE      | LYNCH        |              2
+         236 | MARCIA      | DEAN         |              1
+         237 | TANYA       | GILBERT      |              1
+         238 | NELLIE      | GARRETT      |              2
+         239 | MINNIE      | ROMERO       |              1
+         240 | MARLENE     | WELCH        |              1
+         241 | HEIDI       | LARSON       |              1
+         242 | GLENDA      | FRAZIER      |              2
+         243 | LYDIA       | BURKE        |              2
+         244 | VIOLA       | HANSON       |              1
+         245 | COURTNEY    | DAY          |              2
+         246 | MARIAN      | MENDOZA      |              2
+         247 | STELLA      | MORENO       |              2
+         248 | CAROLINE    | BOWMAN       |              1
+         249 | DORA        | MEDINA       |              2
+         250 | JO          | FOWLER       |              2
+         251 | VICKIE      | BREWER       |              2
+         252 | MATTIE      | HOFFMAN      |              2
+         253 | TERRY       | CARLSON      |              1
+         254 | MAXINE      | SILVA        |              1
+         255 | IRMA        | PEARSON      |              1
+         256 | MABEL       | HOLLAND      |              1
+         257 | MARSHA      | DOUGLAS      |              2
+         258 | MYRTLE      | FLEMING      |              2
+         259 | LENA        | JENSEN       |              1
+         260 | CHRISTY     | VARGAS       |              2
+         261 | DEANNA      | BYRD         |              2
+         262 | PATSY       | DAVIDSON     |              2
+         263 | HILDA       | HOPKINS      |              2
+         264 | GWENDOLYN   | MAY          |              1
+         265 | JENNIE      | TERRY        |              2
+         266 | NORA        | HERRERA      |              2
+         267 | MARGIE      | WADE         |              1
+         268 | NINA        | SOTO         |              1
+         269 | CASSANDRA   | WALTERS      |              2
+         270 | LEAH        | CURTIS       |              1
+         271 | PENNY       | NEAL         |              1
+         272 | KAY         | CALDWELL     |              2
+         273 | PRISCILLA   | LOWE         |              1
+         274 | NAOMI       | JENNINGS     |              2
+         275 | CAROLE      | BARNETT      |              2
+         276 | BRANDY      | GRAVES       |              1
+         277 | OLGA        | JIMENEZ      |              1
+         278 | BILLIE      | HORTON       |              1
+         279 | DIANNE      | SHELTON      |              2
+         280 | TRACEY      | BARRETT      |              2
+         281 | LEONA       | OBRIEN       |              1
+         282 | JENNY       | CASTRO       |              1
+         283 | FELICIA     | SUTTON       |              1
+         284 | SONIA       | GREGORY      |              1
+         285 | MIRIAM      | MCKINNEY     |              2
+         286 | VELMA       | LUCAS        |              1
+         287 | BECKY       | MILES        |              2
+         288 | BOBBIE      | CRAIG        |              2
+         289 | VIOLET      | RODRIQUEZ    |              2
+         290 | KRISTINA    | CHAMBERS     |              2
+         291 | TONI        | HOLT         |              1
+         292 | MISTY       | LAMBERT      |              2
+         293 | MAE         | FLETCHER     |              1
+         294 | SHELLY      | WATTS        |              2
+         295 | DAISY       | BATES        |              2
+         296 | RAMONA      | HALE         |              1
+         297 | SHERRI      | RHODES       |              2
+         298 | ERIKA       | PENA         |              1
+         299 | JAMES       | GANNON       |              2
+         300 | JOHN        | FARNSWORTH   |              1
+         301 | ROBERT      | BAUGHMAN     |              2
+         302 | MICHAEL     | SILVERMAN    |              2
+         303 | WILLIAM     | SATTERFIELD  |              1
+         304 | DAVID       | ROYAL        |              1
+         305 | RICHARD     | MCCRARY      |              2
+         306 | CHARLES     | KOWALSKI     |              1
+         307 | JOSEPH      | JOY          |              2
+         308 | THOMAS      | GRIGSBY      |              2
+         309 | CHRISTOPHER | GRECO        |              2
+         310 | DANIEL      | CABRAL       |              1
+         311 | PAUL        | TROUT        |              2
+         312 | MARK        | RINEHART     |              2
+         313 | DONALD      | MAHON        |              1
+         314 | GEORGE      | LINTON       |              2
+         315 | KENNETH     | GOODEN       |              1
+         316 | STEVEN      | CURLEY       |              1
+         317 | EDWARD      | BAUGH        |              1
+         318 | BRIAN       | WYMAN        |              1
+         319 | RONALD      | WEINER       |              2
+         320 | ANTHONY     | SCHWAB       |              1
+         321 | KEVIN       | SCHULER      |              2
+         322 | JASON       | MORRISSEY    |              2
+         323 | MATTHEW     | MAHAN        |              1
+         324 | GARY        | COY          |              1
+         325 | TIMOTHY     | BUNN         |              1
+         326 | JOSE        | ANDREW       |              2
+         327 | LARRY       | THRASHER     |              1
+         328 | JEFFREY     | SPEAR        |              2
+         329 | FRANK       | WAGGONER     |              1
+         330 | SCOTT       | SHELLEY      |              2
+         331 | ERIC        | ROBERT       |              1
+         332 | STEPHEN     | QUALLS       |              1
+         333 | ANDREW      | PURDY        |              2
+         334 | RAYMOND     | MCWHORTER    |              1
+         335 | GREGORY     | MAULDIN      |              1
+         336 | JOSHUA      | MARK         |              1
+         337 | JERRY       | JORDON       |              2
+         338 | DENNIS      | GILMAN       |              1
+         339 | WALTER      | PERRYMAN     |              1
+         340 | PATRICK     | NEWSOM       |              1
+         341 | PETER       | MENARD       |              1
+         342 | HAROLD      | MARTINO      |              2
+         343 | DOUGLAS     | GRAF         |              1
+         344 | HENRY       | BILLINGSLEY  |              1
+         345 | CARL        | ARTIS        |              2
+         346 | ARTHUR      | SIMPKINS     |              2
+         347 | RYAN        | SALISBURY    |              2
+         348 | ROGER       | QUINTANILLA  |              1
+         349 | JOE         | GILLILAND    |              2
+         350 | JUAN        | FRALEY       |              1
+         351 | JACK        | FOUST        |              1
+         352 | ALBERT      | CROUSE       |              2
+         353 | JONATHAN    | SCARBOROUGH  |              1
+         354 | JUSTIN      | NGO          |              2
+         355 | TERRY       | GRISSOM      |              2
+         356 | GERALD      | FULTZ        |              1
+         357 | KEITH       | RICO         |              2
+         358 | SAMUEL      | MARLOW       |              1
+         359 | WILLIE      | MARKHAM      |              1
+         360 | RALPH       | MADRIGAL     |              2
+         361 | LAWRENCE    | LAWTON       |              1
+         362 | NICHOLAS    | BARFIELD     |              2
+         363 | ROY         | WHITING      |              2
+         364 | BENJAMIN    | VARNEY       |              1
+         365 | BRUCE       | SCHWARZ      |              1
+         366 | BRANDON     | HUEY         |              2
+         367 | ADAM        | GOOCH        |              2
+         368 | HARRY       | ARCE         |              2
+         369 | FRED        | WHEAT        |              1
+         370 | WAYNE       | TRUONG       |              1
+         371 | BILLY       | POULIN       |              1
+         372 | STEVE       | MACKENZIE    |              1
+         373 | LOUIS       | LEONE        |              1
+         374 | JEREMY      | HURTADO      |              1
+         375 | AARON       | SELBY        |              2
+         376 | RANDY       | GAITHER      |              2
+         377 | HOWARD      | FORTNER      |              2
+         378 | EUGENE      | CULPEPPER    |              1
+         379 | CARLOS      | COUGHLIN     |              2
+         380 | RUSSELL     | BRINSON      |              2
+         381 | BOBBY       | BOUDREAU     |              1
+         382 | VICTOR      | BARKLEY      |              2
+         383 | MARTIN      | BALES        |              2
+         384 | ERNEST      | STEPP        |              1
+         385 | PHILLIP     | HOLM         |              1
+         386 | TODD        | TAN          |              1
+         387 | JESSE       | SCHILLING    |              2
+         388 | CRAIG       | MORRELL      |              1
+         389 | ALAN        | KAHN         |              1
+         390 | SHAWN       | HEATON       |              2
+         391 | CLARENCE    | GAMEZ        |              1
+         392 | SEAN        | DOUGLASS     |              1
+         393 | PHILIP      | CAUSEY       |              2
+         394 | CHRIS       | BROTHERS     |              1
+         395 | JOHNNY      | TURPIN       |              1
+         396 | EARL        | SHANKS       |              1
+         397 | JIMMY       | SCHRADER     |              1
+         398 | ANTONIO     | MEEK         |              2
+         399 | DANNY       | ISOM         |              2
+         400 | BRYAN       | HARDISON     |              2
+         401 | TONY        | CARRANZA     |              1
+         402 | LUIS        | YANEZ        |              1
+         403 | MIKE        | WAY          |              1
+         404 | STANLEY     | SCROGGINS    |              2
+         405 | LEONARD     | SCHOFIELD    |              2
+         406 | NATHAN      | RUNYON       |              1
+         407 | DALE        | RATCLIFF     |              1
+         408 | MANUEL      | MURRELL      |              1
+         409 | RODNEY      | MOELLER      |              2
+         410 | CURTIS      | IRBY         |              1
+         411 | NORMAN      | CURRIER      |              2
+         412 | ALLEN       | BUTTERFIELD  |              2
+         413 | MARVIN      | YEE          |              1
+         414 | VINCENT     | RALSTON      |              2
+         415 | GLENN       | PULLEN       |              2
+         416 | JEFFERY     | PINSON       |              2
+         417 | TRAVIS      | ESTEP        |              2
+         418 | JEFF        | EAST         |              1
+         419 | CHAD        | CARBONE      |              2
+         420 | JACOB       | LANCE        |              2
+         421 | LEE         | HAWKS        |              1
+         422 | MELVIN      | ELLINGTON    |              1
+         423 | ALFRED      | CASILLAS     |              2
+         424 | KYLE        | SPURLOCK     |              1
+         425 | FRANCIS     | SIKES        |              1
+         426 | BRADLEY     | MOTLEY       |              1
+         427 | JESUS       | MCCARTNEY    |              1
+         428 | HERBERT     | KRUGER       |              1
+         429 | FREDERICK   | ISBELL       |              1
+         430 | RAY         | HOULE        |              2
+         431 | JOEL        | FRANCISCO    |              1
+         432 | EDWIN       | BURK         |              1
+         433 | DON         | BONE         |              1
+         434 | EDDIE       | TOMLIN       |              1
+         435 | RICKY       | SHELBY       |              1
+         436 | TROY        | QUIGLEY      |              1
+         437 | RANDALL     | NEUMANN      |              1
+         438 | BARRY       | LOVELACE     |              1
+         439 | ALEXANDER   | FENNELL      |              2
+         440 | BERNARD     | COLBY        |              1
+         441 | MARIO       | CHEATHAM     |              1
+         442 | LEROY       | BUSTAMANTE   |              2
+         443 | FRANCISCO   | SKIDMORE     |              1
+         444 | MARCUS      | HIDALGO      |              1
+         445 | MICHEAL     | FORMAN       |              1
+         446 | THEODORE    | CULP         |              1
+         447 | CLIFFORD    | BOWENS       |              1
+         448 | MIGUEL      | BETANCOURT   |              2
+         449 | OSCAR       | AQUINO       |              2
+         450 | JAY         | ROBB         |              1
+         451 | JIM         | REA          |              2
+         452 | TOM         | MILNER       |              1
+         453 | CALVIN      | MARTEL       |              1
+         454 | ALEX        | GRESHAM      |              2
+         455 | JON         | WILES        |              2
+         456 | RONNIE      | RICKETTS     |              1
+         457 | BILL        | GAVIN        |              1
+         458 | LLOYD       | DOWD         |              1
+         459 | TOMMY       | COLLAZO      |              2
+         460 | LEON        | BOSTIC       |              2
+         461 | DEREK       | BLAKELY      |              2
+         462 | WARREN      | SHERROD      |              1
+         463 | DARRELL     | POWER        |              2
+         464 | JEROME      | KENYON       |              1
+         465 | FLOYD       | GANDY        |              1
+         466 | LEO         | EBERT        |              1
+         467 | ALVIN       | DELOACH      |              2
+         468 | TIM         | CARY         |              1
+         469 | WESLEY      | BULL         |              2
+         470 | GORDON      | ALLARD       |              1
+         471 | DEAN        | SAUER        |              2
+         472 | GREG        | ROBINS       |              2
+         473 | JORGE       | OLIVARES     |              2
+         474 | DUSTIN      | GILLETTE     |              2
+         475 | PEDRO       | CHESTNUT     |              1
+         476 | DERRICK     | BOURQUE      |              1
+         477 | DAN         | PAINE        |              2
+         478 | LEWIS       | LYMAN        |              2
+         479 | ZACHARY     | HITE         |              2
+         480 | COREY       | HAUSER       |              1
+         481 | HERMAN      | DEVORE       |              2
+         482 | MAURICE     | CRAWLEY      |              2
+         483 | VERNON      | CHAPA        |              1
+         484 | ROBERTO     | VU           |              2
+         485 | CLYDE       | TOBIAS       |              2
+         486 | GLEN        | TALBERT      |              1
+         487 | HECTOR      | POINDEXTER   |              1
+         488 | SHANE       | MILLARD      |              2
+         489 | RICARDO     | MEADOR       |              2
+         490 | SAM         | MCDUFFIE     |              1
+         491 | RICK        | MATTOX       |              1
+         492 | LESTER      | KRAUS        |              2
+         493 | BRENT       | HARKINS      |              1
+         494 | RAMON       | CHOATE       |              1
+         495 | CHARLIE     | BESS         |              1
+         496 | TYLER       | WREN         |              1
+         497 | GILBERT     | SLEDGE       |              2
+         498 | GENE        | SANBORN      |              1
+         499 | MARC        | OUTLAW       |              2
+         500 | REGINALD    | KINDER       |              1
+         501 | RUBEN       | GEARY        |              1
+         502 | BRETT       | CORNWELL     |              1
+         503 | ANGEL       | BARCLAY      |              2
+         504 | NATHANIEL   | ADAM         |              1
+         505 | RAFAEL      | ABNEY        |              1
+         506 | LESLIE      | SEWARD       |              1
+         507 | EDGAR       | RHOADS       |              1
+         508 | MILTON      | HOWLAND      |              1
+         509 | RAUL        | FORTIER      |              2
+         510 | BEN         | EASTER       |              2
+         511 | CHESTER     | BENNER       |              2
+         512 | CECIL       | VINES        |              2
+         513 | DUANE       | TUBBS        |              2
+         514 | FRANKLIN    | TROUTMAN     |              1
+         515 | ANDRE       | RAPP         |              2
+         516 | ELMER       | NOE          |              1
+         517 | BRAD        | MCCURDY      |              2
+         518 | GABRIEL     | HARDER       |              1
+         519 | RON         | DELUCA       |              1
+         520 | MITCHELL    | WESTMORELAND |              1
+         521 | ROLAND      | SOUTH        |              2
+         522 | ARNOLD      | HAVENS       |              2
+         523 | HARVEY      | GUAJARDO     |              1
+         524 | JARED       | ELY          |              2
+         525 | ADRIAN      | CLARY        |              1
+         526 | KARL        | SEAL         |              2
+         527 | CORY        | MEEHAN       |              2
+         528 | CLAUDE      | HERZOG       |              1
+         529 | ERIK        | GUILLEN      |              1
+         530 | DARRYL      | ASHCRAFT     |              1
+         531 | JAMIE       | WAUGH        |              1
+         532 | NEIL        | RENNER       |              1
+         533 | JESSIE      | MILAM        |              2
+         534 | CHRISTIAN   | JUNG         |              1
+         535 | JAVIER      | ELROD        |              2
+         536 | FERNANDO    | CHURCHILL    |              2
+         537 | CLINTON     | BUFORD       |              2
+         538 | TED         | BREAUX       |              1
+         539 | MATHEW      | BOLIN        |              1
+         540 | TYRONE      | ASHER        |              2
+         541 | DARREN      | WINDHAM      |              1
+         542 | LONNIE      | TIRADO       |              2
+         543 | LANCE       | PEMBERTON    |              1
+         544 | CODY        | NOLEN        |              1
+         545 | JULIO       | NOLAND       |              1
+         546 | KELLY       | KNOTT        |              2
+         547 | KURT        | EMMONS       |              2
+         548 | ALLAN       | CORNISH      |              1
+         549 | NELSON      | CHRISTENSON  |              1
+         550 | GUY         | BROWNLEE     |              1
+         551 | CLAYTON     | BARBEE       |              2
+         552 | HUGH        | WALDROP      |              2
+         553 | MAX         | PITT         |              2
+         554 | DWAYNE      | OLVERA       |              2
+         555 | DWIGHT      | LOMBARDI     |              1
+         556 | ARMANDO     | GRUBER       |              1
+         557 | FELIX       | GAFFNEY      |              2
+         558 | JIMMIE      | EGGLESTON    |              2
+         559 | EVERETT     | BANDA        |              1
+         560 | JORDAN      | ARCHULETA    |              1
+         561 | IAN         | STILL        |              1
+         562 | WALLACE     | SLONE        |              2
+         563 | KEN         | PREWITT      |              2
+         564 | BOB         | PFEIFFER     |              1
+         565 | JAIME       | NETTLES      |              2
+         566 | CASEY       | MENA         |              2
+         567 | ALFREDO     | MCADAMS      |              2
+         568 | ALBERTO     | HENNING      |              2
+         569 | DAVE        | GARDINER     |              2
+         570 | IVAN        | CROMWELL     |              1
+         571 | JOHNNIE     | CHISHOLM     |              2
+         572 | SIDNEY      | BURLESON     |              2
+         573 | BYRON       | BOX          |              1
+         574 | JULIAN      | VEST         |              2
+         575 | ISAAC       | OGLESBY      |              1
+         576 | MORRIS      | MCCARTER     |              2
+         577 | CLIFTON     | MALCOLM      |              2
+         578 | WILLARD     | LUMPKIN      |              2
+         579 | DARYL       | LARUE        |              1
+         580 | ROSS        | GREY         |              2
+         581 | VIRGIL      | WOFFORD      |              2
+         582 | ANDY        | VANHORN      |              1
+         583 | MARSHALL    | THORN        |              1
+         584 | SALVADOR    | TEEL         |              1
+         585 | PERRY       | SWAFFORD     |              1
+         586 | KIRK        | STCLAIR      |              1
+         587 | SERGIO      | STANFIELD    |              2
+         588 | MARION      | OCAMPO       |              1
+         589 | TRACY       | HERRMANN     |              1
+         590 | SETH        | HANNON       |              1
+         591 | KENT        | ARSENAULT    |              2
+         592 | TERRANCE    | ROUSH        |              2
+         593 | RENE        | MCALISTER    |              2
+         594 | EDUARDO     | HIATT        |              1
+         595 | TERRENCE    | GUNDERSON    |              1
+         596 | ENRIQUE     | FORSYTHE     |              1
+         597 | FREDDIE     | DUGGAN       |              2
+         598 | WADE        | DELVALLE     |              2
+         599 | AUSTIN      | CINTRON      |              2
+(599 rows)
+
+ first_name  |  last_name   | rented_from_other_store 
+-------------+--------------+-------------------------
+ MARY        | SMITH        | Yes
+ PATRICIA    | JOHNSON      | Yes
+ LINDA       | WILLIAMS     | Yes
+ BARBARA     | JONES        | Yes
+ ELIZABETH   | BROWN        | Yes
+ JENNIFER    | DAVIS        | Yes
+ MARIA       | MILLER       | Yes
+ SUSAN       | WILSON       | Yes
+ MARGARET    | MOORE        | Yes
+ DOROTHY     | TAYLOR       | Yes
+ LISA        | ANDERSON     | Yes
+ NANCY       | THOMAS       | Yes
+ KAREN       | JACKSON      | Yes
+ BETTY       | WHITE        | Yes
+ HELEN       | HARRIS       | Yes
+ SANDRA      | MARTIN       | Yes
+ DONNA       | THOMPSON     | Yes
+ CAROL       | GARCIA       | Yes
+ RUTH        | MARTINEZ     | Yes
+ SHARON      | ROBINSON     | Yes
+ MICHELLE    | CLARK        | Yes
+ LAURA       | RODRIGUEZ    | Yes
+ SARAH       | LEWIS        | Yes
+ KIMBERLY    | LEE          | Yes
+ DEBORAH     | WALKER       | Yes
+ JESSICA     | HALL         | Yes
+ SHIRLEY     | ALLEN        | Yes
+ CYNTHIA     | YOUNG        | Yes
+ ANGELA      | HERNANDEZ    | Yes
+ MELISSA     | KING         | Yes
+ BRENDA      | WRIGHT       | Yes
+ AMY         | LOPEZ        | Yes
+ ANNA        | HILL         | Yes
+ REBECCA     | SCOTT        | Yes
+ VIRGINIA    | GREEN        | Yes
+ KATHLEEN    | ADAMS        | Yes
+ PAMELA      | BAKER        | Yes
+ MARTHA      | GONZALEZ     | Yes
+ DEBRA       | NELSON       | Yes
+ AMANDA      | CARTER       | Yes
+ STEPHANIE   | MITCHELL     | Yes
+ CAROLYN     | PEREZ        | Yes
+ CHRISTINE   | ROBERTS      | Yes
+ MARIE       | TURNER       | Yes
+ JANET       | PHILLIPS     | Yes
+ CATHERINE   | CAMPBELL     | Yes
+ FRANCES     | PARKER       | Yes
+ ANN         | EVANS        | Yes
+ JOYCE       | EDWARDS      | Yes
+ DIANE       | COLLINS      | Yes
+ ALICE       | STEWART      | Yes
+ JULIE       | SANCHEZ      | Yes
+ HEATHER     | MORRIS       | Yes
+ TERESA      | ROGERS       | Yes
+ DORIS       | REED         | Yes
+ GLORIA      | COOK         | Yes
+ EVELYN      | MORGAN       | Yes
+ JEAN        | BELL         | Yes
+ CHERYL      | MURPHY       | Yes
+ MILDRED     | BAILEY       | Yes
+ KATHERINE   | RIVERA       | Yes
+ JOAN        | COOPER       | Yes
+ ASHLEY      | RICHARDSON   | Yes
+ JUDITH      | COX          | Yes
+ ROSE        | HOWARD       | Yes
+ JANICE      | WARD         | Yes
+ KELLY       | TORRES       | Yes
+ NICOLE      | PETERSON     | Yes
+ JUDY        | GRAY         | Yes
+ CHRISTINA   | RAMIREZ      | Yes
+ KATHY       | JAMES        | Yes
+ THERESA     | WATSON       | Yes
+ BEVERLY     | BROOKS       | Yes
+ DENISE      | KELLY        | Yes
+ TAMMY       | SANDERS      | Yes
+ IRENE       | PRICE        | Yes
+ JANE        | BENNETT      | Yes
+ LORI        | WOOD         | Yes
+ RACHEL      | BARNES       | Yes
+ MARILYN     | ROSS         | Yes
+ ANDREA      | HENDERSON    | Yes
+ KATHRYN     | COLEMAN      | Yes
+ LOUISE      | JENKINS      | Yes
+ SARA        | PERRY        | Yes
+ ANNE        | POWELL       | Yes
+ JACQUELINE  | LONG         | Yes
+ WANDA       | PATTERSON    | Yes
+ BONNIE      | HUGHES       | Yes
+ JULIA       | FLORES       | Yes
+ RUBY        | WASHINGTON   | Yes
+ LOIS        | BUTLER       | Yes
+ TINA        | SIMMONS      | Yes
+ PHYLLIS     | FOSTER       | Yes
+ NORMA       | GONZALES     | Yes
+ PAULA       | BRYANT       | Yes
+ DIANA       | ALEXANDER    | Yes
+ ANNIE       | RUSSELL      | Yes
+ LILLIAN     | GRIFFIN      | Yes
+ EMILY       | DIAZ         | Yes
+ ROBIN       | HAYES        | Yes
+ PEGGY       | MYERS        | Yes
+ CRYSTAL     | FORD         | Yes
+ GLADYS      | HAMILTON     | Yes
+ RITA        | GRAHAM       | Yes
+ DAWN        | SULLIVAN     | Yes
+ CONNIE      | WALLACE      | Yes
+ FLORENCE    | WOODS        | Yes
+ TRACY       | COLE         | Yes
+ EDNA        | WEST         | Yes
+ TIFFANY     | JORDAN       | Yes
+ CARMEN      | OWENS        | Yes
+ ROSA        | REYNOLDS     | Yes
+ CINDY       | FISHER       | Yes
+ GRACE       | ELLIS        | Yes
+ WENDY       | HARRISON     | Yes
+ VICTORIA    | GIBSON       | Yes
+ EDITH       | MCDONALD     | Yes
+ KIM         | CRUZ         | Yes
+ SHERRY      | MARSHALL     | Yes
+ SYLVIA      | ORTIZ        | Yes
+ JOSEPHINE   | GOMEZ        | Yes
+ THELMA      | MURRAY       | Yes
+ SHANNON     | FREEMAN      | Yes
+ SHEILA      | WELLS        | Yes
+ ETHEL       | WEBB         | Yes
+ ELLEN       | SIMPSON      | Yes
+ ELAINE      | STEVENS      | Yes
+ MARJORIE    | TUCKER       | Yes
+ CARRIE      | PORTER       | Yes
+ CHARLOTTE   | HUNTER       | Yes
+ MONICA      | HICKS        | Yes
+ ESTHER      | CRAWFORD     | Yes
+ PAULINE     | HENRY        | Yes
+ EMMA        | BOYD         | Yes
+ JUANITA     | MASON        | Yes
+ ANITA       | MORALES      | Yes
+ RHONDA      | KENNEDY      | Yes
+ HAZEL       | WARREN       | Yes
+ AMBER       | DIXON        | Yes
+ EVA         | RAMOS        | Yes
+ DEBBIE      | REYES        | Yes
+ APRIL       | BURNS        | Yes
+ LESLIE      | GORDON       | Yes
+ CLARA       | SHAW         | Yes
+ LUCILLE     | HOLMES       | Yes
+ JAMIE       | RICE         | Yes
+ JOANNE      | ROBERTSON    | Yes
+ ELEANOR     | HUNT         | Yes
+ VALERIE     | BLACK        | Yes
+ DANIELLE    | DANIELS      | Yes
+ MEGAN       | PALMER       | Yes
+ ALICIA      | MILLS        | Yes
+ SUZANNE     | NICHOLS      | Yes
+ MICHELE     | GRANT        | Yes
+ GAIL        | KNIGHT       | Yes
+ BERTHA      | FERGUSON     | Yes
+ DARLENE     | ROSE         | Yes
+ VERONICA    | STONE        | Yes
+ JILL        | HAWKINS      | Yes
+ ERIN        | DUNN         | Yes
+ GERALDINE   | PERKINS      | Yes
+ LAUREN      | HUDSON       | Yes
+ CATHY       | SPENCER      | Yes
+ JOANN       | GARDNER      | Yes
+ LORRAINE    | STEPHENS     | Yes
+ LYNN        | PAYNE        | Yes
+ SALLY       | PIERCE       | Yes
+ REGINA      | BERRY        | Yes
+ ERICA       | MATTHEWS     | Yes
+ BEATRICE    | ARNOLD       | Yes
+ DOLORES     | WAGNER       | Yes
+ BERNICE     | WILLIS       | Yes
+ AUDREY      | RAY          | Yes
+ YVONNE      | WATKINS      | Yes
+ ANNETTE     | OLSON        | Yes
+ JUNE        | CARROLL      | Yes
+ SAMANTHA    | DUNCAN       | Yes
+ MARION      | SNYDER       | Yes
+ DANA        | HART         | Yes
+ STACY       | CUNNINGHAM   | Yes
+ ANA         | BRADLEY      | Yes
+ RENEE       | LANE         | Yes
+ IDA         | ANDREWS      | Yes
+ VIVIAN      | RUIZ         | Yes
+ ROBERTA     | HARPER       | Yes
+ HOLLY       | FOX          | Yes
+ BRITTANY    | RILEY        | Yes
+ MELANIE     | ARMSTRONG    | Yes
+ LORETTA     | CARPENTER    | Yes
+ YOLANDA     | WEAVER       | Yes
+ JEANETTE    | GREENE       | Yes
+ LAURIE      | LAWRENCE     | Yes
+ KATIE       | ELLIOTT      | Yes
+ KRISTEN     | CHAVEZ       | Yes
+ VANESSA     | SIMS         | Yes
+ ALMA        | AUSTIN       | Yes
+ SUE         | PETERS       | Yes
+ ELSIE       | KELLEY       | Yes
+ BETH        | FRANKLIN     | Yes
+ JEANNE      | LAWSON       | Yes
+ VICKI       | FIELDS       | Yes
+ CARLA       | GUTIERREZ    | Yes
+ TARA        | RYAN         | Yes
+ ROSEMARY    | SCHMIDT      | Yes
+ EILEEN      | CARR         | Yes
+ TERRI       | VASQUEZ      | Yes
+ GERTRUDE    | CASTILLO     | Yes
+ LUCY        | WHEELER      | Yes
+ TONYA       | CHAPMAN      | Yes
+ ELLA        | OLIVER       | Yes
+ STACEY      | MONTGOMERY   | Yes
+ WILMA       | RICHARDS     | Yes
+ GINA        | WILLIAMSON   | Yes
+ KRISTIN     | JOHNSTON     | Yes
+ JESSIE      | BANKS        | Yes
+ NATALIE     | MEYER        | Yes
+ AGNES       | BISHOP       | Yes
+ VERA        | MCCOY        | Yes
+ WILLIE      | HOWELL       | Yes
+ CHARLENE    | ALVAREZ      | Yes
+ BESSIE      | MORRISON     | Yes
+ DELORES     | HANSEN       | Yes
+ MELINDA     | FERNANDEZ    | Yes
+ PEARL       | GARZA        | Yes
+ ARLENE      | HARVEY       | Yes
+ MAUREEN     | LITTLE       | Yes
+ COLLEEN     | BURTON       | Yes
+ ALLISON     | STANLEY      | Yes
+ TAMARA      | NGUYEN       | Yes
+ JOY         | GEORGE       | Yes
+ GEORGIA     | JACOBS       | Yes
+ CONSTANCE   | REID         | Yes
+ LILLIE      | KIM          | Yes
+ CLAUDIA     | FULLER       | Yes
+ JACKIE      | LYNCH        | Yes
+ MARCIA      | DEAN         | Yes
+ TANYA       | GILBERT      | Yes
+ NELLIE      | GARRETT      | Yes
+ MINNIE      | ROMERO       | Yes
+ MARLENE     | WELCH        | Yes
+ HEIDI       | LARSON       | Yes
+ GLENDA      | FRAZIER      | Yes
+ LYDIA       | BURKE        | Yes
+ VIOLA       | HANSON       | Yes
+ COURTNEY    | DAY          | Yes
+ MARIAN      | MENDOZA      | Yes
+ STELLA      | MORENO       | Yes
+ CAROLINE    | BOWMAN       | Yes
+ DORA        | MEDINA       | Yes
+ JO          | FOWLER       | Yes
+ VICKIE      | BREWER       | Yes
+ MATTIE      | HOFFMAN      | Yes
+ TERRY       | CARLSON      | Yes
+ MAXINE      | SILVA        | Yes
+ IRMA        | PEARSON      | Yes
+ MABEL       | HOLLAND      | Yes
+ MARSHA      | DOUGLAS      | Yes
+ MYRTLE      | FLEMING      | Yes
+ LENA        | JENSEN       | Yes
+ CHRISTY     | VARGAS       | Yes
+ DEANNA      | BYRD         | Yes
+ PATSY       | DAVIDSON     | Yes
+ HILDA       | HOPKINS      | Yes
+ GWENDOLYN   | MAY          | Yes
+ JENNIE      | TERRY        | Yes
+ NORA        | HERRERA      | Yes
+ MARGIE      | WADE         | Yes
+ NINA        | SOTO         | Yes
+ CASSANDRA   | WALTERS      | Yes
+ LEAH        | CURTIS       | Yes
+ PENNY       | NEAL         | Yes
+ KAY         | CALDWELL     | Yes
+ PRISCILLA   | LOWE         | Yes
+ NAOMI       | JENNINGS     | Yes
+ CAROLE      | BARNETT      | Yes
+ BRANDY      | GRAVES       | Yes
+ OLGA        | JIMENEZ      | Yes
+ BILLIE      | HORTON       | Yes
+ DIANNE      | SHELTON      | Yes
+ TRACEY      | BARRETT      | Yes
+ LEONA       | OBRIEN       | Yes
+ JENNY       | CASTRO       | Yes
+ FELICIA     | SUTTON       | Yes
+ SONIA       | GREGORY      | Yes
+ MIRIAM      | MCKINNEY     | Yes
+ VELMA       | LUCAS        | Yes
+ BECKY       | MILES        | Yes
+ BOBBIE      | CRAIG        | Yes
+ VIOLET      | RODRIQUEZ    | Yes
+ KRISTINA    | CHAMBERS     | Yes
+ TONI        | HOLT         | Yes
+ MISTY       | LAMBERT      | Yes
+ MAE         | FLETCHER     | Yes
+ SHELLY      | WATTS        | Yes
+ DAISY       | BATES        | Yes
+ RAMONA      | HALE         | Yes
+ SHERRI      | RHODES       | Yes
+ ERIKA       | PENA         | Yes
+ JAMES       | GANNON       | Yes
+ JOHN        | FARNSWORTH   | Yes
+ ROBERT      | BAUGHMAN     | Yes
+ MICHAEL     | SILVERMAN    | Yes
+ WILLIAM     | SATTERFIELD  | Yes
+ DAVID       | ROYAL        | Yes
+ RICHARD     | MCCRARY      | Yes
+ CHARLES     | KOWALSKI     | Yes
+ JOSEPH      | JOY          | Yes
+ THOMAS      | GRIGSBY      | Yes
+ CHRISTOPHER | GRECO        | Yes
+ DANIEL      | CABRAL       | Yes
+ PAUL        | TROUT        | Yes
+ MARK        | RINEHART     | Yes
+ DONALD      | MAHON        | Yes
+ GEORGE      | LINTON       | Yes
+ KENNETH     | GOODEN       | Yes
+ STEVEN      | CURLEY       | Yes
+ EDWARD      | BAUGH        | Yes
+ BRIAN       | WYMAN        | Yes
+ RONALD      | WEINER       | Yes
+ ANTHONY     | SCHWAB       | Yes
+ KEVIN       | SCHULER      | Yes
+ JASON       | MORRISSEY    | Yes
+ MATTHEW     | MAHAN        | Yes
+ GARY        | COY          | Yes
+ TIMOTHY     | BUNN         | Yes
+ JOSE        | ANDREW       | Yes
+ LARRY       | THRASHER     | Yes
+ JEFFREY     | SPEAR        | Yes
+ FRANK       | WAGGONER     | Yes
+ SCOTT       | SHELLEY      | Yes
+ ERIC        | ROBERT       | Yes
+ STEPHEN     | QUALLS       | Yes
+ ANDREW      | PURDY        | Yes
+ RAYMOND     | MCWHORTER    | Yes
+ GREGORY     | MAULDIN      | Yes
+ JOSHUA      | MARK         | Yes
+ JERRY       | JORDON       | Yes
+ DENNIS      | GILMAN       | Yes
+ WALTER      | PERRYMAN     | Yes
+ PATRICK     | NEWSOM       | Yes
+ PETER       | MENARD       | Yes
+ HAROLD      | MARTINO      | Yes
+ DOUGLAS     | GRAF         | Yes
+ HENRY       | BILLINGSLEY  | Yes
+ CARL        | ARTIS        | Yes
+ ARTHUR      | SIMPKINS     | Yes
+ RYAN        | SALISBURY    | Yes
+ ROGER       | QUINTANILLA  | Yes
+ JOE         | GILLILAND    | Yes
+ JUAN        | FRALEY       | Yes
+ JACK        | FOUST        | Yes
+ ALBERT      | CROUSE       | Yes
+ JONATHAN    | SCARBOROUGH  | Yes
+ JUSTIN      | NGO          | Yes
+ TERRY       | GRISSOM      | Yes
+ GERALD      | FULTZ        | Yes
+ KEITH       | RICO         | Yes
+ SAMUEL      | MARLOW       | Yes
+ WILLIE      | MARKHAM      | Yes
+ RALPH       | MADRIGAL     | Yes
+ LAWRENCE    | LAWTON       | Yes
+ NICHOLAS    | BARFIELD     | Yes
+ ROY         | WHITING      | Yes
+ BENJAMIN    | VARNEY       | Yes
+ BRUCE       | SCHWARZ      | Yes
+ BRANDON     | HUEY         | Yes
+ ADAM        | GOOCH        | Yes
+ HARRY       | ARCE         | Yes
+ FRED        | WHEAT        | Yes
+ WAYNE       | TRUONG       | Yes
+ BILLY       | POULIN       | Yes
+ STEVE       | MACKENZIE    | Yes
+ LOUIS       | LEONE        | Yes
+ JEREMY      | HURTADO      | Yes
+ AARON       | SELBY        | Yes
+ RANDY       | GAITHER      | Yes
+ HOWARD      | FORTNER      | Yes
+ EUGENE      | CULPEPPER    | Yes
+ CARLOS      | COUGHLIN     | Yes
+ RUSSELL     | BRINSON      | Yes
+ BOBBY       | BOUDREAU     | Yes
+ VICTOR      | BARKLEY      | Yes
+ MARTIN      | BALES        | Yes
+ ERNEST      | STEPP        | Yes
+ PHILLIP     | HOLM         | Yes
+ TODD        | TAN          | Yes
+ JESSE       | SCHILLING    | Yes
+ CRAIG       | MORRELL      | Yes
+ ALAN        | KAHN         | Yes
+ SHAWN       | HEATON       | Yes
+ CLARENCE    | GAMEZ        | Yes
+ SEAN        | DOUGLASS     | Yes
+ PHILIP      | CAUSEY       | Yes
+ CHRIS       | BROTHERS     | Yes
+ JOHNNY      | TURPIN       | Yes
+ EARL        | SHANKS       | Yes
+ JIMMY       | SCHRADER     | Yes
+ ANTONIO     | MEEK         | Yes
+ DANNY       | ISOM         | Yes
+ BRYAN       | HARDISON     | Yes
+ TONY        | CARRANZA     | Yes
+ LUIS        | YANEZ        | Yes
+ MIKE        | WAY          | Yes
+ STANLEY     | SCROGGINS    | Yes
+ LEONARD     | SCHOFIELD    | Yes
+ NATHAN      | RUNYON       | Yes
+ DALE        | RATCLIFF     | Yes
+ MANUEL      | MURRELL      | Yes
+ RODNEY      | MOELLER      | Yes
+ CURTIS      | IRBY         | Yes
+ NORMAN      | CURRIER      | Yes
+ ALLEN       | BUTTERFIELD  | Yes
+ MARVIN      | YEE          | Yes
+ VINCENT     | RALSTON      | Yes
+ GLENN       | PULLEN       | Yes
+ JEFFERY     | PINSON       | Yes
+ TRAVIS      | ESTEP        | Yes
+ JEFF        | EAST         | Yes
+ CHAD        | CARBONE      | Yes
+ JACOB       | LANCE        | Yes
+ LEE         | HAWKS        | Yes
+ MELVIN      | ELLINGTON    | Yes
+ ALFRED      | CASILLAS     | Yes
+ KYLE        | SPURLOCK     | Yes
+ FRANCIS     | SIKES        | Yes
+ BRADLEY     | MOTLEY       | Yes
+ JESUS       | MCCARTNEY    | Yes
+ HERBERT     | KRUGER       | Yes
+ FREDERICK   | ISBELL       | Yes
+ RAY         | HOULE        | Yes
+ JOEL        | FRANCISCO    | Yes
+ EDWIN       | BURK         | Yes
+ DON         | BONE         | Yes
+ EDDIE       | TOMLIN       | Yes
+ RICKY       | SHELBY       | Yes
+ TROY        | QUIGLEY      | Yes
+ RANDALL     | NEUMANN      | Yes
+ BARRY       | LOVELACE     | Yes
+ ALEXANDER   | FENNELL      | Yes
+ BERNARD     | COLBY        | Yes
+ MARIO       | CHEATHAM     | Yes
+ LEROY       | BUSTAMANTE   | Yes
+ FRANCISCO   | SKIDMORE     | Yes
+ MARCUS      | HIDALGO      | Yes
+ MICHEAL     | FORMAN       | Yes
+ THEODORE    | CULP         | Yes
+ CLIFFORD    | BOWENS       | Yes
+ MIGUEL      | BETANCOURT   | Yes
+ OSCAR       | AQUINO       | Yes
+ JAY         | ROBB         | Yes
+ JIM         | REA          | Yes
+ TOM         | MILNER       | Yes
+ CALVIN      | MARTEL       | Yes
+ ALEX        | GRESHAM      | Yes
+ JON         | WILES        | Yes
+ RONNIE      | RICKETTS     | Yes
+ BILL        | GAVIN        | Yes
+ LLOYD       | DOWD         | Yes
+ TOMMY       | COLLAZO      | Yes
+ LEON        | BOSTIC       | Yes
+ DEREK       | BLAKELY      | Yes
+ WARREN      | SHERROD      | Yes
+ DARRELL     | POWER        | Yes
+ JEROME      | KENYON       | Yes
+ FLOYD       | GANDY        | Yes
+ LEO         | EBERT        | Yes
+ ALVIN       | DELOACH      | Yes
+ TIM         | CARY         | Yes
+ WESLEY      | BULL         | Yes
+ GORDON      | ALLARD       | Yes
+ DEAN        | SAUER        | Yes
+ GREG        | ROBINS       | Yes
+ JORGE       | OLIVARES     | Yes
+ DUSTIN      | GILLETTE     | Yes
+ PEDRO       | CHESTNUT     | Yes
+ DERRICK     | BOURQUE      | Yes
+ DAN         | PAINE        | Yes
+ LEWIS       | LYMAN        | Yes
+ ZACHARY     | HITE         | Yes
+ COREY       | HAUSER       | Yes
+ HERMAN      | DEVORE       | Yes
+ MAURICE     | CRAWLEY      | Yes
+ VERNON      | CHAPA        | Yes
+ ROBERTO     | VU           | Yes
+ CLYDE       | TOBIAS       | Yes
+ GLEN        | TALBERT      | Yes
+ HECTOR      | POINDEXTER   | Yes
+ SHANE       | MILLARD      | Yes
+ RICARDO     | MEADOR       | Yes
+ SAM         | MCDUFFIE     | Yes
+ RICK        | MATTOX       | Yes
+ LESTER      | KRAUS        | Yes
+ BRENT       | HARKINS      | Yes
+ RAMON       | CHOATE       | Yes
+ CHARLIE     | BESS         | Yes
+ TYLER       | WREN         | Yes
+ GILBERT     | SLEDGE       | Yes
+ GENE        | SANBORN      | Yes
+ MARC        | OUTLAW       | Yes
+ REGINALD    | KINDER       | Yes
+ RUBEN       | GEARY        | Yes
+ BRETT       | CORNWELL     | Yes
+ ANGEL       | BARCLAY      | Yes
+ NATHANIEL   | ADAM         | Yes
+ RAFAEL      | ABNEY        | Yes
+ LESLIE      | SEWARD       | Yes
+ EDGAR       | RHOADS       | Yes
+ MILTON      | HOWLAND      | Yes
+ RAUL        | FORTIER      | Yes
+ BEN         | EASTER       | Yes
+ CHESTER     | BENNER       | Yes
+ CECIL       | VINES        | Yes
+ DUANE       | TUBBS        | Yes
+ FRANKLIN    | TROUTMAN     | Yes
+ ANDRE       | RAPP         | Yes
+ ELMER       | NOE          | Yes
+ BRAD        | MCCURDY      | Yes
+ GABRIEL     | HARDER       | Yes
+ RON         | DELUCA       | Yes
+ MITCHELL    | WESTMORELAND | Yes
+ ROLAND      | SOUTH        | Yes
+ ARNOLD      | HAVENS       | Yes
+ HARVEY      | GUAJARDO     | Yes
+ JARED       | ELY          | Yes
+ ADRIAN      | CLARY        | Yes
+ KARL        | SEAL         | Yes
+ CORY        | MEEHAN       | Yes
+ CLAUDE      | HERZOG       | Yes
+ ERIK        | GUILLEN      | Yes
+ DARRYL      | ASHCRAFT     | Yes
+ JAMIE       | WAUGH        | Yes
+ NEIL        | RENNER       | Yes
+ JESSIE      | MILAM        | Yes
+ CHRISTIAN   | JUNG         | Yes
+ JAVIER      | ELROD        | Yes
+ FERNANDO    | CHURCHILL    | Yes
+ CLINTON     | BUFORD       | Yes
+ TED         | BREAUX       | Yes
+ MATHEW      | BOLIN        | Yes
+ TYRONE      | ASHER        | Yes
+ DARREN      | WINDHAM      | Yes
+ LONNIE      | TIRADO       | Yes
+ LANCE       | PEMBERTON    | Yes
+ CODY        | NOLEN        | Yes
+ JULIO       | NOLAND       | Yes
+ KELLY       | KNOTT        | Yes
+ KURT        | EMMONS       | Yes
+ ALLAN       | CORNISH      | Yes
+ NELSON      | CHRISTENSON  | Yes
+ GUY         | BROWNLEE     | Yes
+ CLAYTON     | BARBEE       | Yes
+ HUGH        | WALDROP      | Yes
+ MAX         | PITT         | Yes
+ DWAYNE      | OLVERA       | Yes
+ DWIGHT      | LOMBARDI     | Yes
+ ARMANDO     | GRUBER       | Yes
+ FELIX       | GAFFNEY      | Yes
+ JIMMIE      | EGGLESTON    | Yes
+ EVERETT     | BANDA        | Yes
+ JORDAN      | ARCHULETA    | Yes
+ IAN         | STILL        | Yes
+ WALLACE     | SLONE        | Yes
+ KEN         | PREWITT      | Yes
+ BOB         | PFEIFFER     | Yes
+ JAIME       | NETTLES      | Yes
+ CASEY       | MENA         | Yes
+ ALFREDO     | MCADAMS      | Yes
+ ALBERTO     | HENNING      | Yes
+ DAVE        | GARDINER     | Yes
+ IVAN        | CROMWELL     | Yes
+ JOHNNIE     | CHISHOLM     | Yes
+ SIDNEY      | BURLESON     | Yes
+ BYRON       | BOX          | Yes
+ JULIAN      | VEST         | Yes
+ ISAAC       | OGLESBY      | Yes
+ MORRIS      | MCCARTER     | Yes
+ CLIFTON     | MALCOLM      | Yes
+ WILLARD     | LUMPKIN      | Yes
+ DARYL       | LARUE        | Yes
+ ROSS        | GREY         | Yes
+ VIRGIL      | WOFFORD      | Yes
+ ANDY        | VANHORN      | Yes
+ MARSHALL    | THORN        | Yes
+ SALVADOR    | TEEL         | Yes
+ PERRY       | SWAFFORD     | Yes
+ KIRK        | STCLAIR      | Yes
+ SERGIO      | STANFIELD    | Yes
+ MARION      | OCAMPO       | Yes
+ TRACY       | HERRMANN     | Yes
+ SETH        | HANNON       | Yes
+ KENT        | ARSENAULT    | Yes
+ TERRANCE    | ROUSH        | Yes
+ RENE        | MCALISTER    | Yes
+ EDUARDO     | HIATT        | Yes
+ TERRENCE    | GUNDERSON    | Yes
+ ENRIQUE     | FORSYTHE     | Yes
+ FREDDIE     | DUGGAN       | Yes
+ WADE        | DELVALLE     | Yes
+ AUSTIN      | CINTRON      | Yes
+(599 rows)
+
+ day_name  | average 
+-----------+---------
+ Sunday    |     464
+ Saturday  |     462
+ Friday    |     454
+ Monday    |     449
+ Wednesday |     446
+ Thursday  |     440
+ Tuesday   |     224
+(7 rows)
+
+ customer_id 
+-------------
+         459
+          25
+(2 rows)
+
+        month        |  income  | prev month income |  change   
+---------------------+----------+-------------------+-----------
+ 2007-01-01 00:00:00 |  4824.43 |            <null> |    <null>
+ 2007-02-01 00:00:00 |  9631.88 |           4824.43 |   4807.45
+ 2007-03-01 00:00:00 | 23886.56 |           9631.88 |  14254.68
+ 2007-04-01 00:00:00 | 28559.46 |          23886.56 |   4672.90
+ 2007-05-01 00:00:00 |   514.18 |          28559.46 | -28045.28
+(5 rows)
+
+    country    | num_customers | percent 
+---------------+---------------+---------
+ India         |            60 |      10
+ China         |            53 |       9
+ United States |            36 |       6
+(3 rows)
+
